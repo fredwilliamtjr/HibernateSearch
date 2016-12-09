@@ -7,10 +7,6 @@ package br.com.fwtj.hibernatesearch;
 
 import java.util.List;
 import javax.persistence.EntityManager;
-import javax.persistence.EntityTransaction;
-import org.hibernate.search.MassIndexer;
-import org.hibernate.search.jpa.FullTextEntityManager;
-import org.hibernate.search.jpa.Search;
 
 /**
  *
